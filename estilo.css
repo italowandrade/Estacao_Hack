@@ -1,0 +1,42 @@
+.rodape{
+    text-align: right;
+    margin-top: 0px;
+}
+
+.face {
+    width: 40px;
+}
+
+.twitter {
+    width: 65px;
+    
+}
+
+.lista{
+    display: flex;
+}
+
+.m{
+    margin-right: 38px;
+}
+.redesocial{
+    width: 300px;
+    float: right;
+}
+.aviso p{
+    /* width: 300px; */
+    margin-left: 10px;
+    height:50px ;
+    float: left;
+    
+}
+/* .p{
+    text-align: left;
+    float: left;
+    margin-left: -100px; */
+.logo{
+    width: 300px;
+}
+li{
+    float: right;
+}
