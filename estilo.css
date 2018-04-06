@@ -1,42 +1,43 @@
-.rodape{
-    text-align: right;
-    margin-top: 0px;
+.logo{
+    width: 300px;
 }
-
 .face {
     width: 40px;
 }
 
 .twitter {
     width: 65px;
-    
-}
-
-.lista{
-    display: flex;
-}
-
-.m{
-    margin-right: 38px;
 }
 .redesocial{
-    width: 300px;
+    width: 300px;   
     float: right;
 }
-.aviso p{
-    /* width: 300px; */
-    margin-left: 10px;
-    height:50px ;
-    float: left;
-    
+.rodape{
+    text-align: right;
+    margin-top: 0px;
 }
-/* .p{
-    text-align: left;
-    float: left;
-    margin-left: -100px; */
-.logo{
-    width: 300px;
+.menu{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.botao{
+    justify-content: center;
+    padding-left: 150px;
+    padding-top: 80px;
+}
+header{
+    display: flex;
+    background-color: aqua;
+}
+
+ul{
+   
+    list-style-type: none;
+    display: flex;
 }
 li{
-    float: right;
+
+    padding: 14px 16px;
 }
